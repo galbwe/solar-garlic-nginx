@@ -1,1 +1,4 @@
 nginx/ssl/*
+*.env
+*.env.*
+*.db
